@@ -1,0 +1,16 @@
+.nav-items{
+    color: red;
+}
+
+.footer{
+    background-color: blue;
+    height: 200px;
+    position: static;
+    bottom: 0px;
+}
+
+
+
+body{
+    height: 100%;
+}
